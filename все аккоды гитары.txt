@@ -1,0 +1,47 @@
+иногда
+B->H
+A#->B
+
+аккорды от лада
+0#	1	2	3	4	5	6	7	8	9	10	11
+A(m)	A#	B	C	C#	D	D#	E	F	F#	G	G#
+E(m)	F	F#	G	G#	A	A#	B	C	C#	D	D#
+D(m)	D#	E	F	F#	G	G#	A	A#	B	C	C#
+C	C#	D	D#	E	F	F#	G	G#	A	A#	B
+аккорды от лада
+0b	1	2	3	4	5	6	7	8	9	10	11
+A(m)	Bb	B	C	Db	D	Eb	E	F	Gb	G	Ab
+E(m)	F	Gb	G	Ab	A	Bb	B	C	Db	D	Eb
+D(m)	Eb	E	F	Gb	G	Ab	A	Bb	B	C	Db
+C	Db	D	Eb	E	F	Gb	G	Ab	A	Bb	B
+нестандартные аккорды:
+G:м-GB-1-DG-2-DG
+G7:м-GB-1-DGB-2-F
+м-B-1-D#GC#-2-F#
+гриф
+0#	1	2	3	4	5	6	7	8	9	10	11
+E -м	F	F#	G	G#	A	A#	B	C -1	C#	D	D#
+A -м	A#	B	C -1	C#	D	D#	E	F	F#	G	G#
+D -1	D#	E	F	F#	G	G#	A	A#	B	C -2	C#
+G -1	G#	A	A#	B	C -2	C#	D	D#	E	F	F#
+B -1	C -2	C#	D	D#	E	F	F#	G	G#	A	A#
+E -2	F	F#	G	G#	A	A#	B	C -3	C#	D	D#
+
+
+
+A Am 
+A+ A7 A7-5 A7-9 A7+5 A7+9 A7+11 A7-5(+9) 	Am7 Am7+ Am7-5 
+Adim7 
+Adim 
+A6 			Am6 
+A11 			Am11 
+A13
+A6/9 A9				Am6/9  
+A5 
+Amaj9  Amaj13 
+Asus  A7sus4 A9-5 A9+11 A9sus4 A13-9 A13sus4 Aadd9 Am-6 Am9 Am9-5 Am9+7 Am13 Am(add9) Amaj7 Amaj7-5 Amaj7+11 Asus2 A+7+9 A+7-9 A+9
+
+
+
+
+ми ре ля 
