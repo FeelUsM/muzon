@@ -1,8 +1,8 @@
-todo 
-	прослушать
-	перевести в тададам
-	расставить ратм
-	подобрать бой
+п»їtodo 
+	РїСЂРѕСЃР»СѓС€Р°С‚СЊ
+	РїРµСЂРµРІРµСЃС‚Рё РІ С‚Р°РґР°РґР°Рј
+	СЂР°СЃСЃС‚Р°РІРёС‚СЊ СЂР°С‚Рј
+	РїРѕРґРѕР±СЂР°С‚СЊ Р±РѕР№
 
 dfdcdfdcccdcce .
    V   v   v   v   V   v   v   v   V   v   v   v
@@ -10,48 +10,48 @@ dfdcdfdcccdcce .
 
 v  .  v  ^  .  ^  v  ^  v  .  v  ^  .  ^  v  ^  
 !	    .		!	    .		!
-о     зе ви    н  д     ви   слс да  ун   зе
+Рѕ     Р·Рµ РІРё    РЅ  Рґ     РІРё   СЃР»СЃ РґР°  СѓРЅ   Р·Рµ
         v     v       v      v
 Bm
 Oh the wind whistles down  
-о  зе  wинд  wист лс даун
- ветер свистит вниз
+Рѕ  Р·Рµ  wРёРЅРґ  wРёСЃС‚ Р»СЃ РґР°СѓРЅ
+ РІРµС‚РµСЂ СЃРІРёСЃС‚РёС‚ РІРЅРёР·
 	v  .  v  ^  .  ^  v  ^  v  .  v  ^  .  ^  v  ^  
 	!	    .		!	    .		!
-    зе  колд даркстрит    ту    найт
+    Р·Рµ  РєРѕР»Рґ РґР°СЂРєСЃС‚СЂРёС‚    С‚Сѓ    РЅР°Р№С‚
      v           v      v     v
     G
 The cold dark street tonight
-зе  колд дарк стрит  тунайт
-на холодной темной улице сегодня вечером
+Р·Рµ  РєРѕР»Рґ РґР°СЂРє СЃС‚СЂРёС‚  С‚СѓРЅР°Р№С‚
+РЅР° С…РѕР»РѕРґРЅРѕР№ С‚РµРјРЅРѕР№ СѓР»РёС†Рµ СЃРµРіРѕРґРЅСЏ РІРµС‡РµСЂРѕРј
          v       v        v       v
         D                        
 And the people they were dancing 
-энд зе  пип л   зей wё   дэнсинг
-и       люди,  они танцевали
+СЌРЅРґ Р·Рµ  РїРёРї Р»   Р·РµР№ wС‘   РґСЌРЅСЃРёРЅРі
+Рё       Р»СЋРґРё,  РѕРЅРё С‚Р°РЅС†РµРІР°Р»Рё
 v          v     v      v
    F#
    to the music vibe
-   то зе мьюзик wайб
-в музыкальной атмосфере
+   С‚Рѕ Р·Рµ РјСЊСЋР·РёРє wР°Р№Р±
+РІ РјСѓР·С‹РєР°Р»СЊРЅРѕР№ Р°С‚РјРѕСЃС„РµСЂРµ
          v              v              v              v
         Bm
 And the boys chase the girls With the curls in their hair
-энд зе  бойз чейс  зе  гёлс  wиз  зе  кёлс  ин зе    хеа
-и парни гоняются за девушками у которых завитки в волосах
+СЌРЅРґ Р·Рµ  Р±РѕР№Р· С‡РµР№СЃ  Р·Рµ  РіС‘Р»СЃ  wРёР·  Р·Рµ  РєС‘Р»СЃ  РёРЅ Р·Рµ    С…РµР°
+Рё РїР°СЂРЅРё РіРѕРЅСЏСЋС‚СЃСЏ Р·Р° РґРµРІСѓС€РєР°РјРё Сѓ РєРѕС‚РѕСЂС‹С… Р·Р°РІРёС‚РєРё РІ РІРѕР»РѕСЃР°С…
           v            v         v         v
         G
 And the shy tormented youth sit way over there
-ан(д) зе шай тормендэт йосс сыт wэй оwэ  зеа
+Р°РЅ(Рґ) Р·Рµ С€Р°Р№ С‚РѕСЂРјРµРЅРґСЌС‚ Р№РѕСЃСЃ СЃС‹С‚ wСЌР№ РѕwСЌ  Р·РµР°
          v             
         D                                             F#
 And the songs they get louder Each one better than before
-энд зе  сонгс зей  ге(т)лаурер ыч (w)ан бетэ эзен  бефо
+СЌРЅРґ Р·Рµ  СЃРѕРЅРіСЃ Р·РµР№  РіРµ(С‚)Р»Р°СѓСЂРµСЂ С‹С‡ (w)Р°РЅ Р±РµС‚СЌ СЌР·РµРЅ  Р±РµС„Рѕ
 
 Chorus 
 
 Bm
-And you’re singing the songs
+And youвЂ™re singing the songs
 
 Thinking this is the life
                        G        
@@ -63,7 +63,7 @@ Where you gonna go
                         F#
 Where you gonna sleep tonight
 Bm
-And you’re singing the songs
+And youвЂ™re singing the songs
 
 Thinking this is the life
         G
@@ -86,19 +86,19 @@ Bm  G  D  F#
 Verse  
 
 Bm
-So you’re heading down the road
+So youвЂ™re heading down the road
 
 In your taxi for four
            G
-And you’re waiting outside Jimmy’s front door
+And youвЂ™re waiting outside JimmyвЂ™s front door
     D                                  F#
-But nobody’s in and nobody’s home ‘til four
+But nobodyвЂ™s in and nobodyвЂ™s home вЂtil four
           Bm
-So you’re sitting there with nothing to do 
+So youвЂ™re sitting there with nothing to do 
  G
 Talking about Robert Riger and his motley crew
     D                                                                    F#
-And where you’re gonna go and where you’re gonna sleep tonight
+And where youвЂ™re gonna go and where youвЂ™re gonna sleep tonight
 
 Repeat Chorus 
 
@@ -109,42 +109,42 @@ Repeat Chorus twice
 Repeat Bridge 
 -----------------------
       !    !     !      !
-о зе винд вислс да[у]н
+Рѕ Р·Рµ РІРёРЅРґ РІРёСЃР»СЃ РґР°[Сѓ]РЅ
     !           !      !   !
-зе колд дарк стрит ту найт
+Р·Рµ РєРѕР»Рґ РґР°СЂРє СЃС‚СЂРёС‚ С‚Сѓ РЅР°Р№С‚
         !    !      !      !
-энд зе пипл зей вё дэнсинг
+СЌРЅРґ Р·Рµ РїРёРїР» Р·РµР№ РІС‘ РґСЌРЅСЃРёРЅРі
        !     !    !     !
-ту зу мюзик вайб
+С‚Сѓ Р·Сѓ РјСЋР·РёРє РІР°Р№Р±
 
         !            !           !             !
-энд зе бойз чейс зе гёлз виз зе кёлс ин зе[а] хеа
+СЌРЅРґ Р·Рµ Р±РѕР№Р· С‡РµР№СЃ Р·Рµ РіС‘Р»Р· РІРёР· Р·Рµ РєС‘Р»СЃ РёРЅ Р·Рµ[Р°] С…РµР°
          !             !        !       !
-wайл зе шокт ту мэни чжаст сит wей оwэ зеа
+wР°Р№Р» Р·Рµ С€РѕРєС‚ С‚Сѓ РјСЌРЅРё С‡Р¶Р°СЃС‚ СЃРёС‚ wРµР№ РѕwСЌ Р·РµР°
         !             !             !     !
-энд зе сонгс зей гет лаудер ич ван бетте зен
+СЌРЅРґ Р·Рµ СЃРѕРЅРіСЃ Р·РµР№ РіРµС‚ Р»Р°СѓРґРµСЂ РёС‡ РІР°РЅ Р±РµС‚С‚Рµ Р·РµРЅ
    !    !    !    !
-бефо
+Р±РµС„Рѕ
 
                 !		!(Bm)		!		!
 *   ^	v   ^  |v    ?   v   ^ 	v	v   ^ 	v   ?   v   ^   .
-        энд ю  син--гинг   зе  сонг    синкинг зис    из   зе  лайф
+        СЌРЅРґ СЋ  СЃРёРЅ--РіРёРЅРі   Р·Рµ  СЃРѕРЅРі    СЃРёРЅРєРёРЅРі Р·РёСЃ    РёР·   Р·Рµ  Р»Р°Р№С„
                |!               !(G)            !               !
 *   ^	v   ^  |v   .   v   ^ 	v   .   v   ^ 	v   .   v   ^   .
-айф     энд ю  вей-кап  ин зе  мо-нинг  энд ё  хёд фил твайс зе сайз
+Р°Р№С„     СЌРЅРґ СЋ  РІРµР№-РєР°Рї  РёРЅ Р·Рµ  РјРѕ-РЅРёРЅРі  СЌРЅРґ С‘  С…С‘Рґ С„РёР» С‚РІР°Р№СЃ Р·Рµ СЃР°Р№Р·
 
           |!(D)        !           !           !
   ^  v  ^ |v     v  ^  v     v  ^  v     v  ^     ^  v  ^
-     вё ю гонна го    вё ю  гонна го          вё  ю гонна 
+     РІС‘ СЋ РіРѕРЅРЅР° РіРѕ    РІС‘ СЋ  РіРѕРЅРЅР° РіРѕ          РІС‘  СЋ РіРѕРЅРЅР° 
           |!(F#)       !           !           !
           |v     v  ^  v     v  ^  v     v  ^     ^  v  ^
-         слип тунайт
+         СЃР»РёРї С‚СѓРЅР°Р№С‚
 -----------------------
 
-тататам тататам татам
-тататам там там тадам
-тададам та та та датам
-тадатада там
+С‚Р°С‚Р°С‚Р°Рј С‚Р°С‚Р°С‚Р°Рј С‚Р°С‚Р°Рј
+С‚Р°С‚Р°С‚Р°Рј С‚Р°Рј С‚Р°Рј С‚Р°РґР°Рј
+С‚Р°РґР°РґР°Рј С‚Р° С‚Р° С‚Р° РґР°С‚Р°Рј
+С‚Р°РґР°С‚Р°РґР° С‚Р°Рј
 
 -----------------------
 Oh the wind whistles down  
@@ -157,7 +157,7 @@ And the shy tormented youth sit way over there
 And the songs they get louder Each one better than 
 	before
 
-And you’re singing the songs
+And youвЂ™re singing the songs
 Thinking this is the life
 And you wake up in the morning 
 and your head feels twice the size
@@ -166,7 +166,7 @@ Where you gonna go
 Where you gonna go
 Where you gonna sleep tonight
 
-And you’re singing the songs
+And youвЂ™re singing the songs
 Thinking this is the life
 And you wake up in the morning
 and your head feels twice the size
